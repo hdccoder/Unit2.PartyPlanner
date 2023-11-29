@@ -1,0 +1,8 @@
+body {background-image:url('pexels-helena-lopes-696214.jpg');background-size:cover;background-attachment: fixed;display: flexbox;flex-wrap: ;}
+h1 {color: rgb(246, 246, 246);text-decoration: rgb(24, 75, 75);}
+textarea {width: 900px; }
+input {width: 500px;;}
+h2 {color: rgb(246, 246, 246);}
+h3 {color: rgb(246, 246, 246);font-size: 25px;}
+p {color: rgb(114, 76, 23);font-size: 20px  ;}
+.jstrnfr {background-color: rgba(178, 220, 220, 0.756);padding-left: 3%;padding-right: 3%;padding-top: 3%;padding: 3%;}
